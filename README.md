@@ -1,4 +1,4 @@
-Hi 👋 My name is Gaston Tognola
+Hi 👋 My name is Gastón
 ===============================
 
 Full-Stack Developer
