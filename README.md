@@ -12,7 +12,7 @@ I am a bioengineer and I've been programming for 7 years. I worked with differen
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Healthcare projects
 
-<a href="https://www.twitter.com/gastognola" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/tosch_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gastognola?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/tognola" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tognola?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
