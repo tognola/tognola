@@ -6,8 +6,8 @@ Full-Stack Developer
 
 I am a bioengineer and I've been programming for 7 years. I worked with different technologies (Mobile, Web and desktop) and I'm a fast learner. I enjoy challenges and team work.
 
-* 🌍  I'm based in Buenos Aires
-* ✉️  You can contact me at [gastontognola@gmail.com](mailto:gastontognola@gmail.com)
+* 🌍  I'm based in Alicante, Spain 🇪🇸
+* ✉️  You can contact me at [gastontognola@gmail.com](mailto:gastontognola@gmail.com)
 * 🚀  I'm currently working on [Holisticly](http://Holisticly.io)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Healthcare projects
